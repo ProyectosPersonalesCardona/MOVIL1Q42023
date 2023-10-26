@@ -18,7 +18,7 @@ const getCategoria= async (req, res)=>{
 };
 
 
-//HOLA mundo
+//HOLA mundo hola
 
 const getIdCategoria= async(req,res)=>{
 
